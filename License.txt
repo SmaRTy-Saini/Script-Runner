@@ -1,0 +1,27 @@
+Script Runner - End User License Agreement (EULA)
+
+Copyright © 2025 SmaRTy Saini
+
+This software is provided "as is", without warranty of any kind. The author is not responsible for any damage, data loss, or system malfunction resulting from the use of this software.
+
+By installing and using this software, you agree to the following terms:
+
+1. You MAY:
+   - Use this software for personal or internal business use.
+   - Run and schedule scripts using this tool.
+
+2. You MAY NOT:
+   - Redistribute, repackage, or sell this software or any part of it.
+   - Modify, reverse engineer, or exploit the software for commercial gain.
+   - Use this software to execute malicious code or scripts.
+
+3. Liability:
+   - You accept full responsibility for any scripts executed using this tool.
+   - You understand that script execution is at your own risk.
+
+4. No Guarantee:
+   - There is no guarantee of updates, bug fixes, or support.
+
+If you do not agree with these terms, please uninstall and delete the software.
+
+Visit: https://github.com/SmaRTy-Saini for support or updates.
