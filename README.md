@@ -18,7 +18,7 @@ A simple, flexible, and install-ready GUI for managing and executing scripts in 
 ## 🖥️ Installer
 
 Grab the ready-to-use Windows installer from the [Releases](https://github.com/SmaRTy-Saini/script-runner/releases) page.  
-No need to install Python or any dependencies — just download and run!
+No need to install Python or any dependencies — just download and run.
 
 ---
 
